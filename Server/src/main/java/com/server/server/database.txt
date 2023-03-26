@@ -1,0 +1,5 @@
+B001 Seat Ibiza 2009 Orange
+B002 Hyundai Kona 2019 White
+A001 VW Polo 2005 black
+C002 Audi A6 2020 silver
+C003 BMW X7 2022 brown
